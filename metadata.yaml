@@ -1,0 +1,39 @@
+_repo: The-Lady-of-the-Lake_28287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Moody, William Vaughn
+    birthdate: 1869
+    deathdate: 1910
+    gutenberg_agent_id: '33006'
+    url: http://www.gutenberg.org/2009/agents/33006
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lady of the Lake (Legendary character) -- Poetry'
+- !lcc 'PR'
+title: The Lady of the Lake
+url: http://www.gutenberg.org/ebooks/28287
